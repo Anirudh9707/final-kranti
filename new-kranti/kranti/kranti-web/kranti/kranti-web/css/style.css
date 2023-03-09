@@ -3335,6 +3335,7 @@ hr {
 .form-subscribe {
     display: table;
     margin: 0 auto;
+    
 }
 
 .form-subscribe input[type=text] {
