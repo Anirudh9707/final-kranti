@@ -2860,7 +2860,7 @@ a.btn-add_to_cart {
 }
 
 a.btn-main:hover{
-    color: black;
+    color: white;
 }
 .btn-add_to_cart:before,
 a.btn-add_to_cart:before {
