@@ -5175,6 +5175,7 @@ i.font60 {
 
 .pricing-s1:hover{
     transform: scale(1.05);
+    box-shadow: 0 0 5px 5px #e50000;
 }
 
 .pricing-s1:hover .price{
