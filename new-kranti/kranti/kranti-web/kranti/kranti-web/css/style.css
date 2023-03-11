@@ -2881,9 +2881,9 @@ a.btn-line {
     text-align: center;
     color: #fff;
     
-    border-radius: 0px;
+    border-radius: 15px 50px;
     -moz-border-radius: 0px;
-    -webkit-border-radius: 0px;
+    /* -webkit-border-radius: 0px; */
     outline: 0;
     font-weight: 1000;
     text-decoration: none;
